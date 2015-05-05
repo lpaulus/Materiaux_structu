@@ -18,6 +18,7 @@
 \usepackage{url}
 \usepackage{fancyhdr}
 \usepackage{layout}
+\newcommand\HUGE{\@setfontsize\Huge{38}{47}} 
 \usepackage[version=3]{mhchem}
 \usepackage{array} 
 \usepackage{tikz}
@@ -26,7 +27,22 @@
 \author{}
 \setlength{\columnsep}{1.5cm}
 \begin{document}
-\maketitle
+\twocolumn[%
+%  Title and authors
+   \begin{center}
+     {\fontsize{100}{100}\selectfont Le kevlar}\\
+      \vspace{2ex}
+      Par \textsc{Thibaut \bsc{Cabo}, Adrien \bsc{Hoedenaeken}, Geoffroy \bsc{Jacquet}, Corentin \bsc{Joachim} et Léa \bsc{Paulus}}
+   \end{center}
+%  Abstract
+%   \begin{quotation}
+%      \small
+%      Dans le cadre du cours LAUCE??, nous avons étudié les caractéristiques chimiques et physiques du Kevlar45 en particulier pour l'application d'une voile de bateau.
+%   \end{quotation}
+%   \vspace{2ex}%
+]
+\sffamily
+
 %\begin{multicols}{3}
 \input{Introduction.tex}
 \input{Propriete.tex}
