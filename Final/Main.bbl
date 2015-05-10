@@ -1,7 +1,11 @@
-\newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{BCTOGE{\etalchar{+}}12}
+\begin{thebibliography}{10}
 
-\bibitem[A.14]{manufacturingKevlar}
+\bibitem{wiki}
+{Kevlar}.
+\newblock \url{http://en.wikipedia.org/wiki/Kevlar}, 2015.
+\newblock [Online; last accessed 10/05/2015].
+
+\bibitem{manufacturingKevlar}
 Algahtani A.
 \newblock {Manufacturing Of High Strength Kevlar Fibers}.
 \newblock
@@ -9,13 +13,13 @@ Algahtani A.
   2014.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[AMS97]{Akay1997influence}
+\bibitem{Akay1997influence}
 M~Akay, S~Kong~Ah Mun, and A~Stanley.
 \newblock Influence of moisture on the thermal and mechanical properties of
   autoclaved and oven-cured kevlar-49/epoxy laminates.
 \newblock {\em Composites science and technology}, 57(5):565--571, 1997.
 
-\bibitem[BCTOGE{\etalchar{+}}12]{Bencomo2012characterization}
+\bibitem{Bencomo2012characterization}
 JA~Bencomo-Cisneros, A~Tejeda-Ochoa, JA~Garc{\'\i}a-Estrada,
   CA~Herrera-Ram{\'\i}rez, A~Hurtado-Mac{\'\i}as, R~Mart{\'\i}nez-S{\'a}nchez,
   and JM~Herrera-Ram{\'\i}rez.
@@ -23,7 +27,7 @@ JA~Bencomo-Cisneros, A~Tejeda-Ochoa, JA~Garc{\'\i}a-Estrada,
   nanoindentation.
 \newblock {\em Journal of Alloys and Compounds}, 536:S456--S459, 2012.
 
-\bibitem[CD12]{kevlar2012}
+\bibitem{kevlar2012}
 Schaub~E. Chilutti~D.
 \newblock {The use of poly-paraphénilène téréphtalamide (Kevlar) in
   personnal body armor}.
@@ -32,39 +36,32 @@ Schaub~E. Chilutti~D.
   2012.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[Der09]{Derombise2009comportement}
+\bibitem{Derombise2009comportement}
 Guillaume Derombise.
 \newblock {\em Comportement {\`a} long terme des fibres aramides en milieux
   neutres et alcalins}.
 \newblock PhD thesis, Ecole des Ponts ParisTech, 2009.
 
-\bibitem[DuP]{DuPont}
+\bibitem{DuPont}
 DuPont.
 \newblock Kevlar® aramid fiber - technical guide.
 \newblock Sales brochure.
 
-\bibitem[Fin14]{Fink2014301}
+\bibitem{Fink2014301}
 Johannes~Karl Fink.
 \newblock Chapter 13 - aramids.
 \newblock In Johannes~Karl Fink, editor, {\em High Performance Polymers (Second
   Edition)}, Plastics Design Library, pages 301 -- 320. William Andrew
   Publishing, second edition edition, 2014.
 
-\bibitem[Kab12]{SuperToughFiber}
+\bibitem{SuperToughFiber}
 Reashad~Bin Kabir.
 \newblock {Kevlar - The super tough fiber}.
 \newblock \url{http://www.academia.edu/4384051/Kevlar-The_Super_Tough_Fiber},
   2012.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[KHN{\etalchar{+}}99]{Kawagoe1999effect}
-M~Kawagoe, S~Hashimoto, M~Nomiya, M~Morita, J~Qiu, W~Mizuno, and H~Kitano.
-\newblock Effect of water absorption and desorption on the interfacial
-  degradation in a model composite of an aramid fibre and unsaturated polyester
-  evaluated by raman and ft infra-red microspectroscopy.
-\newblock {\em Journal of Raman spectroscopy}, 30(10):913--918, 1999.
-
-\bibitem[KSR{\etalchar{+}}14]{Karimnezhad2014dynamic}
+\bibitem{Karimnezhad2014dynamic}
 Hanieh Karimnezhad, Ehsan Salehi, Laleh Rajabi, Sara Azimi, Ali~Ashraf
   Derakhshan, and Meisam Ansari.
 \newblock Dynamic removal of n-hexane from water using nanocomposite membranes:
@@ -73,41 +70,48 @@ Hanieh Karimnezhad, Ehsan Salehi, Laleh Rajabi, Sara Azimi, Ali~Ashraf
 \newblock {\em Journal of Industrial and Engineering Chemistry},
   20(6):4491--4498, 2014.
 
-\bibitem[PSML02]{Park2002249}
+\bibitem{Kawagoe1999effect}
+M~Kawagoe, S~Hashimoto, M~Nomiya, M~Morita, J~Qiu, W~Mizuno, and H~Kitano.
+\newblock Effect of water absorption and desorption on the interfacial
+  degradation in a model composite of an aramid fibre and unsaturated polyester
+  evaluated by raman and ft infra-red microspectroscopy.
+\newblock {\em Journal of Raman spectroscopy}, 30(10):913--918, 1999.
+
+\bibitem{Park2002249}
 Soo-Jin Park, Min-Kang Seo, Tae-Jun Ma, and Douk-Rae Lee.
 \newblock Effect of chemical treatment of kevlar fibers on mechanical
   interfacial properties of composites.
 \newblock {\em Journal of Colloid and Interface Science}, 252(1):249 -- 255,
   2002.
 
-\bibitem[RBL{\etalchar{+}}15]{Raja2015e33}
+\bibitem{Raja2015e33}
 Shilpa~N. Raja, Sandip Basu, Aditya~M. Limaye, Turner~J. Anderson, Christina~M.
   Hyland, Liwei Lin, A.~Paul Alivisatos, and Robert~O. Ritchie.
 \newblock Strain-dependent dynamic mechanical properties of kevlar to failure:
   Structural correlations and comparisons to other polymers.
 \newblock {\em Materials Today Communications}, 2(0):e33 -- e37, 2015.
 
-\bibitem[SJD84]{compressiveKevlar}
+\bibitem{compressiveKevlar}
 R.~J. Farris R. S.~Porter S.~J.~Deteresa, S. R.~Allen.
 \newblock {Compressive and torsionnal behavior of Kevlar 49 fibre}.
 \newblock \url{http://link.springer.com/article/10.1007/BF00552994#page-1},
   1984.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[SK66]{brevet1966}
+\bibitem{Salehi2007temperature}
+Amin Salehi-Khojin, Mohammad Mahinfalah, Reza Bashirzadeh, and Brian Freeman.
+\newblock Temperature effects on kevlar/hybrid and carbon fiber composite
+  sandwiches under impact loading.
+\newblock {\em Composite structures}, 78(2):197--206, 2007.
+
+\bibitem{brevet1966}
 Paul Winthrop~Morgan Stephanie~Kwolek.
 \newblock {Brevet : Process for the production of a highly orientable,
   crystallizable, filamentforming polyamide}.
 \newblock \url{http://www.google.com/patents/US3287323}, 1966.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[SKMBF07]{Salehi2007temperature}
-Amin Salehi-Khojin, Mohammad Mahinfalah, Reza Bashirzadeh, and Brian Freeman.
-\newblock Temperature effects on kevlar/hybrid and carbon fiber composite
-  sandwiches under impact loading.
-\newblock {\em Composite structures}, 78(2):197--206, 2007.
-
-\bibitem[Tan95]{KevlarInnovation}
+\bibitem{KevlarInnovation}
 David Tanner.
 \newblock {The Kevlar Innovation}.
 \newblock
@@ -115,30 +119,18 @@ David Tanner.
   1995.
 \newblock [Online; last accessed 10/05/2015 ].
 
-\bibitem[VM09]{Ventura2009thermal}
+\bibitem{Ventura2009thermal}
 G~Ventura and V~Martelli.
 \newblock Thermal conductivity of kevlar 49 between 7 and 290k.
 \newblock {\em Cryogenics}, 49(12):735--737, 2009.
 
-\bibitem[VS88]{Verpoest1988moisture}
+\bibitem{Verpoest1988moisture}
 Ignaas Verpoest and George~S Springer.
 \newblock Moisture absorption characteristics of aramid-epoxy composites.
 \newblock {\em Journal of reinforced plastics and composites}, 7(1):2--22,
   1988.
 
-\bibitem[WC06]{Wu2006tribological}
-J~Wu and XH~Cheng.
-\newblock The tribological properties of kevlar pulp reinforced epoxy
-  composites under dry sliding and water lubricated condition.
-\newblock {\em Wear}, 261(11):1293--1297, 2006.
-
-\bibitem[Woo14]{ExplainThatStuff}
-Chris Woodford.
-\newblock {Kevlar}.
-\newblock \url{http://www.explainthatstuff.com/kevlar.html}, 2014.
-\newblock [Online; last accessed 10/05/2015].
-
-\bibitem[WWH{\etalchar{+}}06]{Wan2006moisture}
+\bibitem{Wan2006moisture}
 YZ~Wan, YL~Wang, Y~Huang, HL~Luo, F~He, and GC~Chen.
 \newblock Moisture absorption in a three-dimensional braided
   carbon/kevlar/epoxy hybrid composite for orthopaedic usage and its influence
@@ -146,28 +138,40 @@ YZ~Wan, YL~Wang, Y~Huang, HL~Luo, F~He, and GC~Chen.
 \newblock {\em Composites Part A: Applied Science and Manufacturing},
   37(9):1480--1484, 2006.
 
-\bibitem[WXH{\etalchar{+}}12]{Wang20121755}
+\bibitem{Wang20121755}
 Huaixi Wang, Huimin Xie, Zhenxing Hu, Dan Wu, and Pengwan Chen.
 \newblock The influence of \{UV\} radiation and moisture on the mechanical
   properties and micro-structure of single kevlar fibre using optical methods.
 \newblock {\em Polymer Degradation and Stability}, 97(9):1755 -- 1761, 2012.
 
-\bibitem[YSL00]{Yue2000effects}
+\bibitem{ExplainThatStuff}
+Chris Woodford.
+\newblock {Kevlar}.
+\newblock \url{http://www.explainthatstuff.com/kevlar.html}, 2014.
+\newblock [Online; last accessed 10/05/2015].
+
+\bibitem{Wu2006tribological}
+J~Wu and XH~Cheng.
+\newblock The tribological properties of kevlar pulp reinforced epoxy
+  composites under dry sliding and water lubricated condition.
+\newblock {\em Wear}, 261(11):1293--1297, 2006.
+
+\bibitem{Yue2000effects}
 CY~Yue, GX~Sui, and HC~Looi.
 \newblock Effects of heat treatment on the mechanical properties of kevlar-29
   fibre.
 \newblock {\em Composites science and technology}, 60(3):421--427, 2000.
 
-\bibitem[ZMVR13]{Zhu2013mechanical}
-Deju Zhu, Barzin Mobasher, Aditya Vaidya, and Subramaniam~D Rajan.
-\newblock Mechanical behaviors of kevlar 49 fabric subjected to uniaxial,
-  biaxial tension and in-plane large shear deformation.
-\newblock {\em Composites Science and Technology}, 74:121--130, 2013.
-
-\bibitem[ZYLG14]{Zhang2014effect}
+\bibitem{Zhang2014effect}
 Hongrui Zhang, Li~Yuan, Guozheng Liang, and Aijuan Gu.
 \newblock Effect and origin of the structure of hyperbranched polysiloxane on
   the surface and integrated performances of grafted kevlar fibers.
 \newblock {\em Applied Surface Science}, 320:883--894, 2014.
+
+\bibitem{Zhu2013mechanical}
+Deju Zhu, Barzin Mobasher, Aditya Vaidya, and Subramaniam~D Rajan.
+\newblock Mechanical behaviors of kevlar 49 fabric subjected to uniaxial,
+  biaxial tension and in-plane large shear deformation.
+\newblock {\em Composites Science and Technology}, 74:121--130, 2013.
 
 \end{thebibliography}

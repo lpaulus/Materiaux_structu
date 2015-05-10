@@ -1,53 +1,52 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
-The style file: alpha.bst
+The style file: plain.bst
 Database file #1: biblio.bib
+Warning--to sort, need author or key in wiki
 Too many commas in name 1 of "S. J. Deteresa, S. R. Allen, R. J. Farris, R. S. Porter" for entry compressiveKevlar
-while executing---line 1185 of file alpha.bst
+while executing---line 1049 of file plain.bst
 Too many commas in name 1 of "S. J. Deteresa, S. R. Allen, R. J. Farris, R. S. Porter" for entry compressiveKevlar
-while executing---line 1185 of file alpha.bst
-Too many commas in name 1 of "S. J. Deteresa, S. R. Allen, R. J. Farris, R. S. Porter" for entry compressiveKevlar
-while executing---line 1250 of file alpha.bst
-You've used 25 entries,
-            2543 wiz_defined-function locations,
-            739 strings with 10371 characters,
-and the built_in function-call counts, 10600 in all, are:
-= -- 1056
-> -- 570
-< -- 11
-+ -- 203
-- -- 201
-* -- 814
-:= -- 1785
-add.period$ -- 83
-call.type$ -- 25
-change.case$ -- 177
-chr.to.int$ -- 25
-cite$ -- 25
-duplicate$ -- 341
-empty$ -- 726
-format.name$ -- 227
-if$ -- 2114
-int.to.chr$ -- 1
-int.to.str$ -- 0
+while executing---line 1090 of file plain.bst
+You've used 26 entries,
+            2118 wiz_defined-function locations,
+            680 strings with 9970 characters,
+and the built_in function-call counts, 8826 in all, are:
+= -- 869
+> -- 455
+< -- 1
++ -- 183
+- -- 155
+* -- 643
+:= -- 1491
+add.period$ -- 86
+call.type$ -- 26
+change.case$ -- 155
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 263
+empty$ -- 674
+format.name$ -- 155
+if$ -- 1811
+int.to.chr$ -- 0
+int.to.str$ -- 26
 missing$ -- 16
-newline$ -- 136
-num.names$ -- 77
-pop$ -- 162
+newline$ -- 140
+num.names$ -- 52
+pop$ -- 161
 preamble$ -- 1
-purify$ -- 202
+purify$ -- 129
 quote$ -- 0
-skip$ -- 291
+skip$ -- 191
 stack$ -- 0
-substring$ -- 615
-swap$ -- 36
-text.length$ -- 11
-text.prefix$ -- 7
+substring$ -- 570
+swap$ -- 37
+text.length$ -- 1
+text.prefix$ -- 0
 top$ -- 0
-type$ -- 200
-warning$ -- 0
-while$ -- 95
-width$ -- 31
-write$ -- 336
-(There were 3 error messages)
+type$ -- 104
+warning$ -- 1
+while$ -- 80
+width$ -- 28
+write$ -- 295
+(There were 2 error messages)
