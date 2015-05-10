@@ -3,50 +3,55 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
 The style file: plain.bst
 Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 5 of file biblio.bib
+ : 
+ : note = "[Online; last accessed 10/05/2015]"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in wiki
 Too many commas in name 1 of "S. J. Deteresa, S. R. Allen, R. J. Farris, R. S. Porter" for entry compressiveKevlar
 while executing---line 1049 of file plain.bst
 Too many commas in name 1 of "S. J. Deteresa, S. R. Allen, R. J. Farris, R. S. Porter" for entry compressiveKevlar
 while executing---line 1090 of file plain.bst
-You've used 26 entries,
+You've used 27 entries,
             2118 wiz_defined-function locations,
-            680 strings with 9970 characters,
-and the built_in function-call counts, 8826 in all, are:
-= -- 869
-> -- 455
+            685 strings with 10143 characters,
+and the built_in function-call counts, 9019 in all, are:
+= -- 885
+> -- 462
 < -- 1
-+ -- 183
-- -- 155
-* -- 643
-:= -- 1491
-add.period$ -- 86
-call.type$ -- 26
-change.case$ -- 155
++ -- 186
+- -- 157
+* -- 648
+:= -- 1522
+add.period$ -- 88
+call.type$ -- 27
+change.case$ -- 159
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 263
-empty$ -- 674
-format.name$ -- 155
-if$ -- 1811
+cite$ -- 28
+duplicate$ -- 270
+empty$ -- 696
+format.name$ -- 157
+if$ -- 1853
 int.to.chr$ -- 0
-int.to.str$ -- 26
+int.to.str$ -- 27
 missing$ -- 16
-newline$ -- 140
-num.names$ -- 52
-pop$ -- 161
+newline$ -- 144
+num.names$ -- 54
+pop$ -- 169
 preamble$ -- 1
-purify$ -- 129
+purify$ -- 132
 quote$ -- 0
-skip$ -- 191
+skip$ -- 201
 stack$ -- 0
-substring$ -- 570
-swap$ -- 37
+substring$ -- 575
+swap$ -- 38
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 108
 warning$ -- 1
-while$ -- 80
-width$ -- 28
-write$ -- 295
-(There were 2 error messages)
+while$ -- 82
+width$ -- 29
+write$ -- 302
+(There were 3 error messages)

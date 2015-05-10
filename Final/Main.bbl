@@ -45,7 +45,8 @@ Guillaume Derombise.
 \bibitem{DuPont}
 DuPont.
 \newblock Kevlar® aramid fiber - technical guide.
-\newblock Sales brochure.
+\newblock Sales brochure :
+  \url{http://www2.dupont.com/Personal_Protection/en_GB/assets/PDF/Kevlar%C2%AE%20Technical%20Guide.pdf}.
 
 \bibitem{Fink2014301}
 Johannes~Karl Fink.
@@ -53,6 +54,10 @@ Johannes~Karl Fink.
 \newblock In Johannes~Karl Fink, editor, {\em High Performance Polymers (Second
   Edition)}, Plastics Design Library, pages 301 -- 320. William Andrew
   Publishing, second edition edition, 2014.
+
+\bibitem{MatStruc}
+Cap J.-F.
+\newblock {LAUCE1031 Matériaux structuraux}.
 
 \bibitem{SuperToughFiber}
 Reashad~Bin Kabir.
