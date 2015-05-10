@@ -14,7 +14,7 @@
 \usepackage{wrapfig}
 %\usepackage{lipsum}
 \usepackage{eurosym}
-\usepackage[a3paper]{geometry}
+\usepackage[a3paper, margin=3in]{geometry}
 \usepackage{fullpage}
 \usepackage{hyperref}
 \usepackage{caption}
@@ -32,7 +32,7 @@
 \usetikzlibrary{arrows,shapes,positioning}
 \title{Le kevlar}
 \author{}
-\setlength{\columnsep}{1.5cm}
+\setlength{\columnsep}{1.3cm}
 \begin{document}
 	%Définir les formes
 	\tikzstyle{block} = [rectangle, draw, fill=blue!20,text width=14em, text badly centered, rounded corners, minimum height=4em, minimum width=23em, node distance=3cm] %Etape
@@ -44,11 +44,13 @@
 	\tikzstyle{final} = [midway, diamond, draw, fill=yellow!60, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt] %Produit fina
 \twocolumn[%
 %  Title and authors
+
    \begin{center}
-     {\fontsize{100}{100}\selectfont Le kevlar}\\
+     {\fontsize{80}{50}\selectfont Le kevlar}\\
       \vspace{2ex}
       Par \textsc{Thibaut \bsc{Cabo}, Adrien \bsc{Hoedenaeken}, Geoffroy \bsc{Jacquet}, Corentin \bsc{Joachim} et Léa \bsc{Paulus}}
 %\HRule \\[0.2cm]
+\rule{\linewidth}{0.5mm}
 % Author and supervisor
 %\begin{figure*}
 %\includegraphics[width=\textwidth,height=4cm]{Schema/couuuv.png}
@@ -80,7 +82,8 @@
 \input{Geoffroy.tex}
 \input{Thibaut.tex}
 %\end{multicols}
-
+\newpage
+\newpage
 \bibliographystyle{alpha}
 \bibliography{biblio}
 \end{document}
